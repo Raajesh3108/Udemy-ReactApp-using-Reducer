@@ -7,8 +7,8 @@ const Hero = () => {
     <HeroWrapper className = "bg-black">
       <div className='container h-100 flex'>
         <div className='hero-content'>
-          <h1>Elevate Your Expertise</h1>
-          <p>Explore our massive course sale with prices starting from just $9.99. Whatever you're eager to learn, we've got you covered. Don't miss out – this incredible offer ends on August 31.</p>
+          <h1>Enhance Skills</h1>
+          <p>Learn Web Design from user experience fundamentals to advanced development techniques, and stay up-to-date with the latest skills.</p>
         </div>
       </div>
     </HeroWrapper>
