@@ -10,8 +10,8 @@ const CourseList = () => {
     <CoursesListWrapper>
       <div className='container'>
         <div className='courses-list-top'>
-          <h2>An extensive selection of courses</h2>
-          <p>Choose from 6,500+ courses, Guided Projects, Specializations, and Professional Certificates with new additions publihsed every month</p>
+          <h2>A Wide range of our courses</h2>
+          <p>Explore variety of courses, Guided Projects, Specializations and Professional Certificates with new content added regularly.</p>
         </div>
 
         <Tabs courses = {courses} />
